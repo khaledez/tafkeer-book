@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'IBMPlexSansArabic', sans-serif;
+	src: url(../fonts/IBMPlexSansArabic-Regular.ttf) format('truetype'),
+		 url(../fonts/IBMPlexSansArabic-Regular.otf) format('opentype');
+	font-display: optional;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'IBMPlexSansArabic', sans-serif;
+	src: url(../fonts/IBMPlexSansArabic-Bold.ttf) format('truetype'),
+		 url(../fonts/IBMPlexSansArabic-Bold.otf) format('opentype');
+	font-display: optional;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'IBMPlexSansArabic', sans-serif;
+	src: url(../fonts/IBMPlexSansArabic-Light.ttf) format('truetype'),
+		 url(../fonts/IBMPlexSansArabic-Light.otf) format('opentype');
+	font-display: optional;
+	font-weight: lighter;
+}
+
+@font-face {
+	font-family: 'Gharbi', sans-serif;
+	src: url(../fonts/Gharbi-Bold.ttf) format('truetype'),
+		 url(../fonts/Gharbi-Bold.otf) format('opentype');
+	font-display: optional;
+	font-weight: bold;
+}
+
+body {
+	font-family: 'IBMPlexSansArabic', sans-serif;
+}
+
+h1, h2 {
+	font-family: 'Gharbi', sans-serif;
+}
+
+p {
+	font-family: 'IBMPlexSansArabic', sans-serif !important;
+	font-size: x-large;
+	text-align: justify;
+}

@@ -1,0 +1,10 @@
+[book]
+authors = ["تقي الدين النبهاني"]
+language = "ar"
+text-direction = "rtl"
+multilingual = false
+src = "src"
+title = "التفكير"
+
+[output.html]
+additional-css = ["assets/css/main.css"]
