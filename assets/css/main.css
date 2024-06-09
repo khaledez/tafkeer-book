@@ -1,31 +1,31 @@
 @font-face {
 	font-family: 'IBMPlexSansArabic', sans-serif;
-	src: url(../fonts/IBMPlexSansArabic-Regular.ttf) format('truetype'),
-		 url(../fonts/IBMPlexSansArabic-Regular.otf) format('opentype');
+	src: url(/assets/fonts/IBMPlexSansArabic-Regular.ttf) format('truetype'),
+		 url(/assets/fonts/IBMPlexSansArabic-Regular.otf) format('opentype');
 	font-display: optional;
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'IBMPlexSansArabic', sans-serif;
-	src: url(../fonts/IBMPlexSansArabic-Bold.ttf) format('truetype'),
-		 url(../fonts/IBMPlexSansArabic-Bold.otf) format('opentype');
+	src: url(/assets/fonts/IBMPlexSansArabic-Bold.ttf) format('truetype'),
+		 url(/assets/fonts/IBMPlexSansArabic-Bold.otf) format('opentype');
 	font-display: optional;
 	font-weight: bold;
 }
 
 @font-face {
 	font-family: 'IBMPlexSansArabic', sans-serif;
-	src: url(../fonts/IBMPlexSansArabic-Light.ttf) format('truetype'),
-		 url(../fonts/IBMPlexSansArabic-Light.otf) format('opentype');
+	src: url(/assets/fonts/IBMPlexSansArabic-Light.ttf) format('truetype'),
+		 url(/assets/fonts/IBMPlexSansArabic-Light.otf) format('opentype');
 	font-display: optional;
 	font-weight: lighter;
 }
 
 @font-face {
 	font-family: 'Gharbi', sans-serif;
-	src: url(../fonts/Gharbi-Bold.ttf) format('truetype'),
-		 url(../fonts/Gharbi-Bold.otf) format('opentype');
+	src: url(/assets/fonts/Gharbi-Bold.ttf) format('truetype'),
+		 url(/assets/fonts/Gharbi-Bold.otf) format('opentype');
 	font-display: optional;
 	font-weight: bold;
 }

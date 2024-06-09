@@ -8,3 +8,4 @@ title = "التفكير"
 
 [output.html]
 additional-css = ["assets/css/main.css"]
+copy-fonts = true
